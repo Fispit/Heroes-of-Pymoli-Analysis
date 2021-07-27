@@ -5,9 +5,9 @@
 Heroes of Pymoli is a fantasy game that has an in-game cash shop that allows players to buy items and other assorted things for player accounts. The game company wants do analyze their customer data to learn how to better deal with the playerbase.
 
 
-##Heroes of Pymoli
+## Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](441160-fantasy_art-sword-magic-748x382.jpg)
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The company would like to generate a report that breaks down the game's purchasing data into meaningful insights.
 
