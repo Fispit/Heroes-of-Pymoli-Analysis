@@ -1,8 +1,15 @@
-# Pandas - Pandas, Pandas, Pandas
+# Videogame Purchase Analysis
 
-## Background
+## Summary
 
 Heroes of Pymoli is a fantasy game that has an in-game cash shop that allows players to buy items and other assorted things for player accounts. The game company wants do analyze their customer data to learn how to better deal with the playerbase.
+
+
+The folder structure for Heroes of Pymoli is the following:
+
+*HeroesOfPymoli  - (Includes the main Jupyter notebook inside)
+
+  *Resources - (Contains the purchase data used)
 
 
 ## Heroes of Pymoli
