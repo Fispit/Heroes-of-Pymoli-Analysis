@@ -1,32 +1,17 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas - Pandas, Pandas, Pandas
 
 ## Background
 
-The data dive continues!
+Heroes of Pymoli is a fantasy game that has an in-game cash shop that allows players to buy items and other assorted things for player accounts. The game company wants do analyze their customer data to learn how to better deal with the playerbase.
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Option 1: Heroes of Pymoli
+##Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The company would like to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+The results of the analysis will include:
 
 ### Player Count
 
@@ -86,10 +71,3 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
